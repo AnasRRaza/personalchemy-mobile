@@ -1,0 +1,15 @@
+# React Native directories to ignore
+**/node_modules/
+**/ios/Pods/
+**/ios/build/
+**/ios/Podfile.lock
+**/android/.gradle/
+**/android/build/
+**/android/app/build/
+**/yarn.lock
+**/package-lock.json
+
+# React Native files to ignore
+**/*.log
+**/*.xcodeproj/*
+**/*.xcworkspace/*
